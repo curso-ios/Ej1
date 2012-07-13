@@ -8,6 +8,13 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ULCViewController : UIViewController
+@interface ULCViewController : UIViewController {
+    NSMutableArray *_messagesViews;
+}
+
+@property (nonatomic, assign) IBOutlet UITextField *messageField;
+@property (nonatomic, assign) IBOutlet UIView *contentView;
+
+- (IBAction)sendTap:(id)sender;
 
 @end

@@ -37,20 +37,20 @@
 		0DEB459615A1F8120052E736 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		0DEB459815A1F8120052E736 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		0DEB459A15A1F8120052E736 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		0DEB459E15A1F8120052E736 /* IOS-EJ1-Info.plist */ = {isa = PBXFileReference; path = "IOS-EJ1-Info.plist"; sourceTree = "<group>"; };
+		0DEB459E15A1F8120052E736 /* IOS-EJ1-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "IOS-EJ1-Info.plist"; sourceTree = "<group>"; };
 		0DEB45A015A1F8120052E736 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		0DEB45A215A1F8120052E736 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		0DEB45A415A1F8120052E736 /* IOS-EJ1-Prefix.pch */ = {isa = PBXFileReference; path = "IOS-EJ1-Prefix.pch"; sourceTree = "<group>"; };
-		0DEB45A515A1F8120052E736 /* ULCAppDelegate.h */ = {isa = PBXFileReference; path = ULCAppDelegate.h; sourceTree = "<group>"; };
+		0DEB45A415A1F8120052E736 /* IOS-EJ1-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "IOS-EJ1-Prefix.pch"; sourceTree = "<group>"; };
+		0DEB45A515A1F8120052E736 /* ULCAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ULCAppDelegate.h; sourceTree = "<group>"; };
 		0DEB45A615A1F8120052E736 /* ULCAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ULCAppDelegate.m; sourceTree = "<group>"; };
 		0DEB45A915A1F8120052E736 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
-		0DEB45AB15A1F8120052E736 /* ULCViewController.h */ = {isa = PBXFileReference; path = ULCViewController.h; sourceTree = "<group>"; };
+		0DEB45AB15A1F8120052E736 /* ULCViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ULCViewController.h; sourceTree = "<group>"; };
 		0DEB45AC15A1F8120052E736 /* ULCViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ULCViewController.m; sourceTree = "<group>"; };
 		0DEB45B315A1F8120052E736 /* IOS-EJ1Tests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "IOS-EJ1Tests.octest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0DEB45B415A1F8120052E736 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		0DEB45BC15A1F8120052E736 /* IOS-EJ1Tests-Info.plist */ = {isa = PBXFileReference; path = "IOS-EJ1Tests-Info.plist"; sourceTree = "<group>"; };
+		0DEB45BC15A1F8120052E736 /* IOS-EJ1Tests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "IOS-EJ1Tests-Info.plist"; sourceTree = "<group>"; };
 		0DEB45BE15A1F8120052E736 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		0DEB45C015A1F8120052E736 /* IOS_EJ1Tests.h */ = {isa = PBXFileReference; path = IOS_EJ1Tests.h; sourceTree = "<group>"; };
+		0DEB45C015A1F8120052E736 /* IOS_EJ1Tests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IOS_EJ1Tests.h; sourceTree = "<group>"; };
 		0DEB45C115A1F8120052E736 /* IOS_EJ1Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = IOS_EJ1Tests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
